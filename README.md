@@ -23,9 +23,9 @@ This is a solution to the [Basic Web Pages tutorial No. 2 of HTML & CSS Is Hard]
 
 ### Links
 
-- Solution URL: (https://github.com/jugglingdev/basic-web-pages)
+- Solution URL: [Basic Web Pages Solution](https://github.com/jugglingdev/basic-web-pages)
 
-- Live Site URL: (https://jugglingdev.github.io/basic-web-pages/)
+- Live Site URL: [Basic Web Pages Live Site](https://jugglingdev.github.io/basic-web-pages/)
 
 ## My process
 
