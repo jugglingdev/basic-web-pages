@@ -19,13 +19,13 @@ This is a solution to the [Basic Web Pages tutorial No. 2 of HTML & CSS Is Hard]
 
 ### Screenshot
 
-![Full page screenshot](./basic-web-pages.png "Interneting Is Easy!")
+![Interneting Is Easy! screenshot](./basic-web-pages.png "Interneting Is Easy!")
 
 ### Links
 
-- Solution URL: [Basic Web Pages Solution](https://github.com/jugglingdev/basic-web-pages)
+- Solution URL: [Basic Web Pages solution](https://github.com/jugglingdev/basic-web-pages)
 
-- Live Site URL: [Basic Web Pages Live Site](https://jugglingdev.github.io/basic-web-pages/)
+- Live Site URL: [Basic Web Pages live site](https://jugglingdev.github.io/basic-web-pages/)
 
 ## My process
 
