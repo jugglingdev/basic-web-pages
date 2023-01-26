@@ -37,7 +37,7 @@ This is a solution to the [Basic Web Pages tutorial No. 2 of HTML & CSS Is Hard]
 
 In this tutorial, I built my first web page with HTML5 markup.  I learned about the boilerplate tags needed in every HTML document.  I enjoyed nesting the tags to keep things organized.  I also found it interesting that `<title>` goes in the `<head>` and appears in the tab while `<h1>` can be used as the title on the webpage.
 
-I was familiar with the levels of headings because of Word, so that part was easy.  I also appreciated the semantic meaning behind `<strong>` and `<em>` versus `<b>` and `<i>`.  Lists I had learned before when dabbling in coding a few years back.
+I was familiar with the levels of headings because of Word, so that part was easy.  I also appreciated the semantic meaning behind `<strong>` and `<em>` versus `<b>` and `<i>` respectively.  Lists I had learned before when dabbling in coding a few years back.
 
 One of the biggest aha! moments this time around was grasping that HTML is for structure and CSS is for presentation.  I like the approach to begin typing out the content/structure before diving into all the fancy formatting work.
 
@@ -79,4 +79,4 @@ Though it wasn't the focus of this tutorial, I would also like to continue to st
 
 Shoutout to Oliver James for his dedication to publishing and maintaining InternetingIsHard.com.  His tutorials were the first that really clicked for me.
 
-Another shoutout to Adam Pritchard for his Markdown Cheatsheet and Frontend Mentor for supplying a template I could fill out.
+Another shoutout to Adam Pritchard for his Markdown Cheatsheet and Frontend Mentor for supplying a README.md template I could fill out.
